@@ -31,14 +31,14 @@
 ]
 }
 ],
-  "portfolio": [
+"portfolio": [
 {
 "heading": "SIRE PRINTING",
 "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/fctstqlb6nq2idmuvxru-768x614.png"
 }
 ]
 },
-  {
+{
 "slug": "seo",
 "id": "seo",
 "breadcrumbs": {
@@ -48,9 +48,13 @@
 },
 "description": [
 {
+"lists": [
+"Is your website not found online? ",
+"Are you facing a sudden decline in websites traffic? ",
+"You made a new website and want to build up a new business as soon as possible?"
+],
 "heading": "Now Rank Your Website At Top In Search Engines Result Pages With SEO",
 "subheading": "Are you facing this problem with your website ranking?",
-"listing":[ "Is your website not found online? ", "  Are you facing a sudden decline in websites traffic? ", "  You made a new website and want to build up a new business as soon as possible?"],
 "text": [
 "If YES then you surely need professional SEO services and you’re at the right place to seek them.",
 "Being the top <a href='/'> Digital Marketing Agency</a>, we offer professional small business SEO services to help businesses get more traffic, more leads, and grow quickly. We target both on-page as well as off-page SEO and provide services like keyword research, content marketing, <a href='/sem'>search engine marketing</a>, social media marketing, technical SEO, and more. Our SEO experts with the assistance of your manager will analyze your business condition and provide professional SEO services to rank your website at the top of the search list. Once you’re at the top, people are going to see you as a professional and trusted brand over your competitors thus bringing more growth opportunities."
